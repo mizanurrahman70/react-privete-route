@@ -14,6 +14,7 @@ const PrivetRout = ({children}) => {
     return (
         
        <Navigate to='/login'></Navigate>
+    //    hello
     );
 };
 
